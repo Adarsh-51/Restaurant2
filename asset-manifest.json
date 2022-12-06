@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Restaurant2/static/css/main.bc041830.css",
+    "main.js": "/Restaurant2/static/js/main.601d7da6.js",
+    "static/js/787.927534ac.chunk.js": "/Restaurant2/static/js/787.927534ac.chunk.js",
+    "static/media/Breakfast2.jpg": "/Restaurant2/static/media/Breakfast2.545c29f4ee35aa478fbc.jpg",
+    "static/media/food12.jpg": "/Restaurant2/static/media/food12.4f35c30ea3c81cb1add0.jpg",
+    "static/media/food8.jpg": "/Restaurant2/static/media/food8.1088bda99051ad078490.jpg",
+    "static/media/home.jpg": "/Restaurant2/static/media/home.f8f713d1d06b06057361.jpg",
+    "static/media/food10.jpg": "/Restaurant2/static/media/food10.00729deb6cff312666fd.jpg",
+    "static/media/food2.jpg": "/Restaurant2/static/media/food2.5724c355218bbae33021.jpg",
+    "static/media/Breakfast1.jpg": "/Restaurant2/static/media/Breakfast1.54e54a92c515810795c6.jpg",
+    "static/media/food1.jpg": "/Restaurant2/static/media/food1.a58c1ec266e3c63a9ffd.jpg",
+    "static/media/Breakfast3.jpg": "/Restaurant2/static/media/Breakfast3.8f672a70c627d4c3349d.jpg",
+    "static/media/icon2.jpg": "/Restaurant2/static/media/icon2.188b5ea22dd7ea21d813.jpg",
+    "static/media/download1.jpg": "/Restaurant2/static/media/download1.28e292dd1bf47a6cb369.jpg",
+    "static/media/food9.jpg": "/Restaurant2/static/media/food9.8936f7c954dca8a5d970.jpg",
+    "static/media/food3.jpg": "/Restaurant2/static/media/food3.392489b308e09493a0ca.jpg",
+    "static/media/food11.jpg": "/Restaurant2/static/media/food11.aa29a63d0d9390f038d8.jpg",
+    "static/media/food5.jpg": "/Restaurant2/static/media/food5.aa29a63d0d9390f038d8.jpg",
+    "static/media/food4.jpg": "/Restaurant2/static/media/food4.0c0dc78ce465df3a982d.jpg",
+    "static/media/food7.jpg": "/Restaurant2/static/media/food7.ab5f157c4becd3ec16ed.jpg",
+    "static/media/icon3.jpg": "/Restaurant2/static/media/icon3.983b554a4949155f0524.jpg",
+    "static/media/RestLogo1.jpg": "/Restaurant2/static/media/RestLogo1.9d0d6d0f9f9c1a71e541.jpg",
+    "static/media/icon1.jpg": "/Restaurant2/static/media/icon1.866d8d2247aaac78d93b.jpg",
+    "static/media/food6.jpg": "/Restaurant2/static/media/food6.dabc6c5d1c42e8cc2990.jpg",
+    "index.html": "/Restaurant2/index.html",
+    "static/media/menu.svg": "/Restaurant2/static/media/menu.7a3c4e3fb43d8a99d38648e878aae923.svg",
+    "main.bc041830.css.map": "/Restaurant2/static/css/main.bc041830.css.map",
+    "main.601d7da6.js.map": "/Restaurant2/static/js/main.601d7da6.js.map",
+    "787.927534ac.chunk.js.map": "/Restaurant2/static/js/787.927534ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc041830.css",
+    "static/js/main.601d7da6.js"
+  ]
+}
